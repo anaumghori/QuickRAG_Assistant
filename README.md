@@ -13,7 +13,7 @@ This application is a powerful, interactive tool that transforms your PDFs into 
 - **FAISS:** Used as an in-memory vector store for fast, efficient similarity searches, making it perfect for retrieving relevant information from processed PDF content.
 - **LangChain:** Provides seamless integration for document chunking, embedding generation, and chaining retrieval with LLM-based reasoning.
 - **GPT-4o-mini:** Offers powerful language understanding and reasoning capabilities while being computationally efficient.
-
+- **Gradio:** Used to create an intuitive, user-friendly interface that allows users to easily interact with the system for quick responses.
 
 # Demo
 
